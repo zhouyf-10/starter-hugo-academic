@@ -44,7 +44,7 @@ slides: ""
 
 1. **Yifan Zhou**, Peng Zhang, “[Neuro-Reachability of Networked Microgrids](https://yifanzhou.info/publication/neuro-reachability-of-networked-microgrids/),” IEEE Transactions on Power Systems, vol. 37, no. 1, pp. 142-152, Jan. 2022.
 
-1. **Yifan Zhou**, Wei Hu, Yong Min, et al, “[A Semi-Supervised Anomaly Detection Method for Wind Farm Power Data Preprocessing](https://ieeexplore.ieee.org/document/8273883)”, IEEE Power and Energy Society General Meeting (PESGM), 2017.
+1. **Yifan Zhou**, Wei Hu, Yong Min, “[A Semi-Supervised Anomaly Detection Method for Wind Farm Power Data Preprocessing](https://ieeexplore.ieee.org/document/8273883)”, IEEE Power and Energy Society General Meeting (PESGM), 2017.
 
 1. Le Zheng, Wei Hu, **Yifan Zhou**, Yong Min, “[Deep belief network based nonlinear representation learning for transient stability assessment](https://ieeexplore.ieee.org/abstract/document/8274126)”, IEEE Power and Energy Society General Meeting (PESGM), 2017
 
