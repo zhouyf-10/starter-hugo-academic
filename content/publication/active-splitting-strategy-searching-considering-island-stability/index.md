@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Springer Journal of Modern Power Systems and Clean Energy"
-publication_short: "Springer STC"
+publication_short: "Springer Journal of Modern Power Systems and Clean Energy"
 
 abstract: ""
 

@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Innovative Smart Grid Technologies - Asia"
-publication_short: "ISGT ASIA"
+publication_short: "IEEE Innovative Smart Grid Technologies - Asia"
 
 abstract: ""
 

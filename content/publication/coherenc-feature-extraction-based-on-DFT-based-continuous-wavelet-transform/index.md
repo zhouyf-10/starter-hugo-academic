@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE PES Asia-Pacific Power and Energy Engineering Conference"
-publication_short: "IEEE APPEEC"
+publication_short: "IEEE PES Asia-Pacific Power and Energy Engineering Conference"
 
 abstract: ""
 

@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Sustainable Energy"
-publication_short: "IEEE STC"
+publication_short: "IEEE Transactions on Sustainable Energy"
 
 abstract: ""
 

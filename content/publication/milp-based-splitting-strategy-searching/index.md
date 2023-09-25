@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Power and Energy Society General Meeting"
-publication_short: "IEEE PESGM"
+publication_short: "IEEE Power and Energy Society General Meeting"
 
 abstract: ""
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yifan Zhou (周一凡)
+title: Yifan Zhou
 
 # Is this the primary user of the site?
 superuser: true
