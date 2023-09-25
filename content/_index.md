@@ -16,7 +16,7 @@ sections:
     content:
       title: News
       text: |-
-        - **2022/06**, Our paper APF is accepted by IEEE Transactions on Power Systems.
+        - **2023/08**, Our paper on [learning-based microgrid control](https://ieeexplore.ieee.org/abstract/document/10233047) is accepted by IEEE Transactions on Smart Grid.
         - **2022/05**, Our paper QSLR is accepted by IEEE Transactions on Power Systems.
         - **2022/05**, Our paper NISQ-QEMTP is accepted by IEEE Transactions on Power Systems.
         - **2022/05**, Our paper QTSA is accepted by IEEE Transactions on Power Systems.
@@ -71,9 +71,7 @@ sections:
     content:
       title: Awards
       text: |-
-        - **2023**, 2023 Young Academic Inventor’s Award from the National Academy of Inventors
-(NAI) Stony Brook University Chapter, recognized for her ”fundamental work in quantum computing techniques
-for large-scale power system problems”
+        - **2023**, 2023 Young Academic Inventor’s Award from the National Academy of Inventors (NAI) Stony Brook University Chapter, recognized for her ”fundamental work in quantum computing techniques for large-scale power system problems”
         - **2021**, Outstanding Reviewer for IEEE Transactions on Power Systems
         - **2014**, Outstanding Graduate of Tsinghua University (1.5%) (1/4)
         - **2014**, Outstanding Graduate of Beijing
