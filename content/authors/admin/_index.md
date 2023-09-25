@@ -18,10 +18,10 @@ bio: My research interests include microgrid and networked microgrids, formal an
 
 # Interests to show in About widget
 interests:
-  - Networked Microgrids
-  - Formal Analysis
   - AI-Driven Smart Grid
   - Quantum Computing
+  - Formal Analysis
+  - Networked Microgrids
 
 # Education to show in About widget
 education:

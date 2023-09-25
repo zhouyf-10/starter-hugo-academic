@@ -15,8 +15,8 @@ doi: "10.1109/TPWRS.2020.3031196"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Power Systems, vol. 36, no. 3, pp. 2532-2541"
-publication_short: "IEEE Transactions on Power Systems, vol. 36, no. 3, pp. 2532-2541"
+publication: "IEEE Transactions on Power Systems, May 2021"
+publication_short: "IEEE Transactions on Power Systems, May 2021"
 
 abstract: ""
 
