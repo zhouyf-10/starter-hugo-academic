@@ -27,14 +27,14 @@ slides: ""
 **Related Publications**
 
 
-1. Sijia Yu, Zefan Tang, Zimin Jiang, Yifan Zhou*, “Scalable and Lightweight
+1. Sijia Yu, Zefan Tang, Zimin Jiang, **Yifan Zhou**, “Scalable and Lightweight
 Distributed Local Routing for Quantum Network-Based Microgrids”, IEEE Power
 and Energy Society General Meeting (PESGM), 2023.
 
 9. Fei Feng, Peng Zhang, Mikhail Bragin, **Yifan Zhou**, “[Novel Resolution of Unit Commitment Problems through Quantum Surrogate Lagrangian Relaxation](https://ieeexplore.ieee.org/abstract/document/9793720),” in
 IEEE Transactions on Power Systems, vol. 38, no. 3, pp. 2460-2471, May 2023.
 
-8. Fei Feng, Yifan Zhou, Peng Zhang*, “[Noise-Resilient Quantum Power Flow](https://ieeexplore.ieee.org/abstract/document/10144277),” in iEnergy, vol. 2, no. 1, pp. 63-70, Mar. 2023.
+8. Fei Feng, **Yifan Zhou**, Peng Zhang, “[Noise-Resilient Quantum Power Flow](https://ieeexplore.ieee.org/abstract/document/10144277),” in iEnergy, vol. 2, no. 1, pp. 63-70, Mar. 2023.
 
 7. **Yifan Zhou**, Zefan Tang, Nima Nikmehr, Pouya Babahajiani, Fei Feng, Tzu-Chieh Wei, Honghao Zheng, Peng Zhang, “Quantum Computing in Power Systems,” iEnergy, vol. 1, no. 2, pp. 1–18, Jun. 2022.
 
