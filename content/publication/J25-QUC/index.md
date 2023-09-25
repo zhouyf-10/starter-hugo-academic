@@ -6,8 +6,8 @@ authors:
   - Peng Zhang
   - Mikhail Bragin
   - admin
-date: "2021-05-29T00:00:00Z"
-doi: "10.1109/TPWRS.2021.3085706"
+date: "2022-07-29T00:00:00Z"
+doi: "10.1109/TPWRS.2022.3181221"
 
 
 # Publication type.
@@ -22,7 +22,7 @@ publication_short: "IEEE Transactions on Power Systems"
 
 abstract: ""
 
-external_link: "https://ieeexplore.ieee.org/document/9444806"
+external_link: "https://ieeexplore.ieee.org/abstract/document/9793720"
 
 tags:
   - Formal Analysis
