@@ -46,8 +46,7 @@ IEEE Transactions on Power Systems, vol. 38, no. 3, pp. 2460-2471, May 2023.
 
 4. **Yifan Zhou**, Peng Zhang, “[Noise-Resilient Quantum Machine Learning for Power System Stability Assessment](https://yifanzhou.info/publication/quantum-machine-learning-for-power-system-stability-assessment/),” IEEE Transactions on Power Systems, accepted, Mar. 2022.
 
-3. Fei Feng, Peng Zhang, **Yifan Zhou**, Zefan Tang, “[Quantum Microgrid State Estimation](https://www.sciencedirect.com/science/article/pii/S0378779622005235),” in Electric Power Systems Research, vol. 212, pp. 108386, Nov.
-2022.
+3. Fei Feng, Peng Zhang, **Yifan Zhou**, Zefan Tang, “[Quantum Microgrid State Estimation](https://www.sciencedirect.com/science/article/pii/S0378779622005235),” in Electric Power Systems Research, vol. 212, pp. 108386, Nov. 2022.
 
 2. **Yifan Zhou**, Fei Feng, Peng Zhang, “[Quantum Electromagnetic Transients Program](https://yifanzhou.info/publication/quantum-electromagnetic-transients-program/),” IEEE Transactions on Power Systems, vol. 36, no. 4, pp. 3813-3816, July 2021.
 
