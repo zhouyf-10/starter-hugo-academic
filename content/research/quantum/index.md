@@ -36,8 +36,6 @@ IEEE Transactions on Power Systems, vol. 38, no. 3, pp. 2460-2471, May 2023.
 
 8. Fei Feng, Yifan Zhou, Peng Zhang*, “[Noise-Resilient Quantum Power Flow](https://ieeexplore.ieee.org/abstract/document/10144277),” in iEnergy, vol. 2, no. 1, pp. 63-70, Mar. 2023.
 
-
-
 7. **Yifan Zhou**, Zefan Tang, Nima Nikmehr, Pouya Babahajiani, Fei Feng, Tzu-Chieh Wei, Honghao Zheng, Peng Zhang, “Quantum Computing in Power Systems,” iEnergy, vol. 1, no. 2, pp. 1–18, Jun. 2022.
 
 6. Zefan Tang, Peng Zhang, **Yifan Zhou**, “[Quantum Renewable Scenario Generation](https://ieeexplore.ieee.org/abstract/document/9916926),” IEEE Power and Energy Society General Meeting (PESGM), 2022
@@ -48,7 +46,7 @@ IEEE Transactions on Power Systems, vol. 38, no. 3, pp. 2460-2471, May 2023.
 
 4. **Yifan Zhou**, Peng Zhang, “[Noise-Resilient Quantum Machine Learning for Power System Stability Assessment](https://yifanzhou.info/publication/quantum-machine-learning-for-power-system-stability-assessment/),” IEEE Transactions on Power Systems, accepted, Mar. 2022.
 
-3. Fei Feng, Peng Zhang*, Yifan Zhou, Zefan Tang, “[Quantum Microgrid State Estimation](https://www.sciencedirect.com/science/article/pii/S0378779622005235),” in Electric Power Systems Research, vol. 212, pp. 108386, Nov.
+3. Fei Feng, Peng Zhang, **Yifan Zhou**, Zefan Tang, “[Quantum Microgrid State Estimation](https://www.sciencedirect.com/science/article/pii/S0378779622005235),” in Electric Power Systems Research, vol. 212, pp. 108386, Nov.
 2022.
 
 2. **Yifan Zhou**, Fei Feng, Peng Zhang, “[Quantum Electromagnetic Transients Program](https://yifanzhou.info/publication/quantum-electromagnetic-transients-program/),” IEEE Transactions on Power Systems, vol. 36, no. 4, pp. 3813-3816, July 2021.
