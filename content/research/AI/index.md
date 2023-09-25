@@ -26,7 +26,7 @@ slides: ""
 
 **Related Publications**
 
-Lizhi Wang, Songyuan Zhang, **Yifan Zhou**, Chuchu Fan, Peng Zhang, Yacov A. Shamash, “[Physics-Informed, Safety and Stability Certified Neural Control for Uncertain Networked Microgrids](https://ieeexplore.ieee.org/abstract/document/10233047)”, IEEE Transactions on Smart Grid, accepted, Aug. 2023
+1. Lizhi Wang, Songyuan Zhang, **Yifan Zhou**, Chuchu Fan, Peng Zhang, Yacov A. Shamash, “[Physics-Informed, Safety and Stability Certified Neural Control for Uncertain Networked Microgrids](https://ieeexplore.ieee.org/abstract/document/10233047)”, IEEE Transactions on Smart Grid, accepted, Aug. 2023
 
 Lizhi Wang, Songyuan Zhang, **Yifan Zhou**, Chuchu Fan, Peng Zhang, Yacov A. Shamash, “Learning-Based, Safety and Stability-Certified Microgrid Control”, IEEE Power and Energy Society General Meeting (PESGM), 2023.
 
