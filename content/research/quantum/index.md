@@ -27,7 +27,7 @@ slides: ""
 **Related Publications**
 
 
-10. Sijia Yu, Zefan Tang, Zimin Jiang, Yifan Zhou*, “Scalable and Lightweight
+1. Sijia Yu, Zefan Tang, Zimin Jiang, Yifan Zhou*, “Scalable and Lightweight
 Distributed Local Routing for Quantum Network-Based Microgrids”, IEEE Power
 and Energy Society General Meeting (PESGM), 2023.
 
