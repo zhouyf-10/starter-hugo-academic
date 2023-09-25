@@ -20,7 +20,7 @@ publication_short: "IEEE Transactions on Power Systems"
 
 abstract: ""
 
-external_link: "https://ieeexplore.ieee.org/document/9769895"
+external_link: "https://ieeexplore.ieee.org/abstract/document/9769895"
 
 tags:
 - Quantum Computing

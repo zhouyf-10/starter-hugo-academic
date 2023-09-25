@@ -16,11 +16,10 @@ sections:
     content:
       title: News
       text: |-
-        - **2023/08**, Our paper on [learning-based microgrid control](https://ieeexplore.ieee.org/abstract/document/10233047) is accepted by IEEE Transactions on Smart Grid.
-        - **2022/05**, Our paper QSLR is accepted by IEEE Transactions on Power Systems.
-        - **2022/05**, Our paper NISQ-QEMTP is accepted by IEEE Transactions on Power Systems.
-        - **2022/05**, Our paper QTSA is accepted by IEEE Transactions on Power Systems.
-        - **2022/02**, Our paper NeuEMTP is accepted by PESGM 2022.
+        - **2023/08**, Our paper on [learning-based, safety and stability-certified microgrid control](https://ieeexplore.ieee.org/abstract/document/10233047) is accepted by IEEE Transactions on Smart Grid.
+        - **2023/03**, Our paper on [noise-intermediate-scale quantum EMTP](https://ieeexplore.ieee.org/abstract/document/9769895) is published by IEEE Transactions on Power Systems.
+        - **2023/03**, Our paper on [noise-resilient quantum power flow](https://ieeexplore.ieee.org/abstract/document/10144277) is accepted by iEnergy.
+        - **2023/01**, Our paper on [quantum machine learning-based transient stability assessment](https://ieeexplore.ieee.org/abstract/document/9737359) is published by IEEE Transactions on Power Systems.
     design:
       columns: '2'
   - block: portfolio
@@ -71,7 +70,7 @@ sections:
     content:
       title: Awards
       text: |-
-        - **2023**, 2023 Young Academic Inventor’s Award from the National Academy of Inventors (NAI) Stony Brook University Chapter, recognized for her ”fundamental work in quantum computing techniques for large-scale power system problems”
+        - **2023**,  Young Academic Inventor’s Award from the National Academy of Inventors (NAI) Stony Brook University Chapter, recognized for her ”fundamental work in quantum computing techniques for large-scale power system problems”
         - **2021**, Outstanding Reviewer for IEEE Transactions on Power Systems
         - **2014**, Outstanding Graduate of Tsinghua University (1.5%) (1/4)
         - **2014**, Outstanding Graduate of Beijing
