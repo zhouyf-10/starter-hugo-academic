@@ -1,11 +1,11 @@
 ---
-title: "Noise-Resilient Quantum Machine Learning for Stability Assessment of Power Systems"
+title: "Reachable Power Flow: Theory to Practice"
 authors:
-  - admin
+  - Yifan Zhou
   - Peng Zhang
 
-date: "2022-05-10T00:00:00Z"
-doi: "10.1109/TPWRS.2022.3172655"
+date: "2021-05-01T00:00:00Z"
+doi: "10.1109/TPWRS.2020.3031196"
 
 
 # Publication type.
@@ -20,16 +20,13 @@ publication_short: "IEEE Transactions on Power Systems"
 
 abstract: ""
 
-external_link: "https://ieeexplore.ieee.org/document/9737359"
-
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9769895'
+external_link: "https://ieeexplore.ieee.org/document/9224183"
 
 tags:
-- Quantum Computing
-
+- Formal Analysis
 draft: false
 featured: false
 
-
 ---
+
 

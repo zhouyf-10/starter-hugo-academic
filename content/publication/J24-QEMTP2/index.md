@@ -1,11 +1,11 @@
 ---
-title: "Reachable Power Flow: Theory to Practice"
+title: "Noisy-Intermediate-Scale Quantum Electromagnetic Transients Program"
 authors:
-  - Yifan Zhou
+  - admin
   - Peng Zhang
 
-date: "2021-05-01T00:00:00Z"
-doi: "10.1109/TPWRS.2020.3031196"
+date: "2022-05-01T00:00:00Z"
+doi: "10.1109/TPWRS.2022.3160384"
 
 
 # Publication type.
@@ -15,18 +15,18 @@ doi: "10.1109/TPWRS.2020.3031196"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Power Systems, May 2021"
-publication_short: "IEEE Transactions on Power Systems, May 2021"
+publication: "IEEE Transactions on Power Systems"
+publication_short: "IEEE Transactions on Power Systems"
 
 abstract: ""
 
-external_link: "https://ieeexplore.ieee.org/document/9224183"
+external_link: "https://ieeexplore.ieee.org/document/9769895"
 
 tags:
-- Formal Analysis
+- Quantum Computing
+- Machine Learning
+
 draft: false
 featured: false
 
 ---
-
-

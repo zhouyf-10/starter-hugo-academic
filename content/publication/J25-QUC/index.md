@@ -1,8 +1,11 @@
 ---
-title: "Neuro-Reachability of Networked Microgrids"
+title: "Novel Resolution of Unit
+Commitment Problems through Quantum Surrogate Lagrangian Relaxation"
 authors:
-  - admin
+  - Fei Feng
   - Peng Zhang
+  - Mikhail Bragin
+  - admin
 date: "2021-05-29T00:00:00Z"
 doi: "10.1109/TPWRS.2021.3085706"
 
@@ -20,9 +23,6 @@ publication_short: "IEEE Transactions on Power Systems"
 abstract: ""
 
 external_link: "https://ieeexplore.ieee.org/document/9444806"
-
-url_pdf: 'https://arxiv.org/abs/2101.05159v1'
-
 
 tags:
   - Formal Analysis

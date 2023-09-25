@@ -1,11 +1,11 @@
 ---
-title: "Noisy-Intermediate-Scale Quantum Electromagnetic Transients Program"
+title: "Noise-Resilient Quantum Machine Learning for Stability Assessment of Power Systems"
 authors:
   - admin
   - Peng Zhang
 
-date: "2022-05-01T00:00:00Z"
-doi: "10.1109/TPWRS.2022.3160384"
+date: "2022-05-10T00:00:00Z"
+doi: "10.1109/TPWRS.2022.3172655"
 
 
 # Publication type.
@@ -20,15 +20,14 @@ publication_short: "IEEE Transactions on Power Systems"
 
 abstract: ""
 
-external_link: "https://ieeexplore.ieee.org/document/9769895"
-
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9737359'
+external_link: "https://ieeexplore.ieee.org/document/9737359"
 
 tags:
 - Quantum Computing
-- Machine Learning
 
 draft: false
 featured: false
 
+
 ---
+

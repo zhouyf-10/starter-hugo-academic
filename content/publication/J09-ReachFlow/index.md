@@ -16,8 +16,8 @@ doi: "10.1109/TPWRS.2020.2974164"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication:  "IEEE Transactions on Power Systems, vol. 35, no. 4, pp. 3290-3293"
-publication_short: "IEEE Transactions on Power Systems, vol. 35, no. 4, pp. 3290-3293"
+publication:  "IEEE Transactions on Power Systems"
+publication_short: "IEEE Transactions on Power Systems"
 
 abstract: ""
 

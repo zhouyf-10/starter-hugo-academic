@@ -71,7 +71,10 @@ sections:
     content:
       title: Awards
       text: |-
-        - **2020**, Outstanding Reviewer for IEEE Transactions on Power Systems
+        - **2023**, 2023 Young Academic Inventor’s Award from the National Academy of Inventors
+(NAI) Stony Brook University Chapter, recognized for her ”fundamental work in quantum computing techniques
+for large-scale power system problems”
+        - **2021**, Outstanding Reviewer for IEEE Transactions on Power Systems
         - **2014**, Outstanding Graduate of Tsinghua University (1.5%) (1/4)
         - **2014**, Outstanding Graduate of Beijing
         - **2014**, Outstanding Thesis Award, Tsinghua University
