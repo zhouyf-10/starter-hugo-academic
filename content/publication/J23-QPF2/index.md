@@ -1,5 +1,5 @@
 ---
-title: "Noisy-Resilient Quantum Power Flow"
+title: "Noise-Resilient Quantum Power Flow"
 authors:
   - Fei Feng
   - admin
