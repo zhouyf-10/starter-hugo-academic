@@ -1,11 +1,13 @@
 ---
-title: "Noisy-Intermediate-Scale Quantum Electromagnetic Transients Program"
+title: "Quantum Microgrid State Estimation"
 authors:
-  - admin
+  - Fei Feng
   - Peng Zhang
+  - admin
+  - Zefan Tang
 
-date: "2022-05-01T00:00:00Z"
-doi: "10.1109/TPWRS.2022.3160384"
+date: "2022-11-01T00:00:00Z"
+doi: "10.1016/j.epsr.2022.108386"
 
 
 # Publication type.
@@ -15,16 +17,15 @@ doi: "10.1109/TPWRS.2022.3160384"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Power Systems"
-publication_short: "IEEE Transactions on Power Systems"
+publication: "Electric Power Systems Research"
+publication_short: "Electric Power Systems Research"
 
 abstract: ""
 
-external_link: "https://ieeexplore.ieee.org/abstract/document/9769895/"
+external_link: "https://www.sciencedirect.com/science/article/pii/S0378779622005235"
 
 tags:
 - Quantum Computing
-- Machine Learning
 
 draft: false
 featured: false

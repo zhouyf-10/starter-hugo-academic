@@ -1,12 +1,14 @@
 ---
-title: "Noisy-Intermediate-Scale Quantum Electromagnetic Transients Program"
+title: "Quantum Power Flow"
 authors:
+  - Fei Feng
   - admin
   - Peng Zhang
+date: "2021-05-18T00:00:00Z"
+doi: "10.1109/TPWRS.2021.3077382"
 
-date: "2022-05-01T00:00:00Z"
-doi: "10.1109/TPWRS.2022.3160384"
-
+# Schedule page publish date (NOT publication's date).
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,13 +22,14 @@ publication_short: "IEEE Transactions on Power Systems"
 
 abstract: ""
 
-external_link: "https://ieeexplore.ieee.org/abstract/document/9769895/"
+external_link: "https://ieeexplore.ieee.org/abstract/document/9423668"
+
 
 tags:
 - Quantum Computing
-- Machine Learning
-
 draft: false
 featured: false
 
 ---
+
+

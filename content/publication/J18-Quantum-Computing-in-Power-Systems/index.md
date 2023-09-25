@@ -1,11 +1,17 @@
 ---
-title: "Noisy-Intermediate-Scale Quantum Electromagnetic Transients Program"
+title: "Quantum Computing in Power Systems"
 authors:
   - admin
+  - Zefan Tang
+  - Nima Nikmehr
+  - Pouya Babahajiani
+  - Fei Feng
+  - Tzu-Chieh Wei
+  - Honghao Zheng
   - Peng Zhang
 
-date: "2022-05-01T00:00:00Z"
-doi: "10.1109/TPWRS.2022.3160384"
+date: "2022-07-01T00:00:00Z"
+doi: "10.23919/IEN.2022.0021"
 
 
 # Publication type.
@@ -15,16 +21,15 @@ doi: "10.1109/TPWRS.2022.3160384"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Power Systems"
-publication_short: "IEEE Transactions on Power Systems"
+publication: "iEnergy"
+publication_short: "iEnergy"
 
 abstract: ""
 
-external_link: "https://ieeexplore.ieee.org/abstract/document/9769895/"
+external_link: "https://ieeexplore.ieee.org/abstract/document/9831167"
 
 tags:
 - Quantum Computing
-- Machine Learning
 
 draft: false
 featured: false

@@ -1,11 +1,12 @@
 ---
-title: "Noisy-Intermediate-Scale Quantum Electromagnetic Transients Program"
+title: "Distributed Networked Microgrids Power Flow"
 authors:
+  - Fei Feng
   - admin
   - Peng Zhang
 
 date: "2022-05-01T00:00:00Z"
-doi: "10.1109/TPWRS.2022.3160384"
+doi: "10.1109/TPWRS.2022.3175933"
 
 
 # Publication type.
@@ -20,11 +21,8 @@ publication_short: "IEEE Transactions on Power Systems"
 
 abstract: ""
 
-external_link: "https://ieeexplore.ieee.org/abstract/document/9769895/"
+external_link: "https://ieeexplore.ieee.org/abstract/document/9779113"
 
-tags:
-- Quantum Computing
-- Machine Learning
 
 draft: false
 featured: false

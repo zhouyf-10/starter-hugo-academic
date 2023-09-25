@@ -5,7 +5,7 @@ authors:
   - Peng Zhang
 
 date: "2022-05-10T00:00:00Z"
-doi: "10.1109/TPWRS.2022.3172655"
+doi: "10.1109/TPWRS.2022.3160384"
 
 
 # Publication type.
@@ -24,7 +24,7 @@ external_link: "https://ieeexplore.ieee.org/document/9737359"
 
 tags:
 - Quantum Computing
-
+- Machine Learning
 draft: false
 featured: false
 
