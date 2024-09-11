@@ -37,7 +37,7 @@ sections:
       columns: '2'
       view: compact
       flip_alt_rows: false
-  - block: portfolio
+  #- block: portfolio
     id: presentations
     content:
       title: Presentations
@@ -51,7 +51,7 @@ sections:
     design:
       columns: '2'
       view: 5
-      flip_alt_rows: false
+      flip_alt_rows: false #
   - block: collection
     id: publications
     content:
