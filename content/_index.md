@@ -56,8 +56,7 @@ sections:
     content:
       title: Teaching
       text: |-
-      Fall 2024
-        - ESE 352 - Electromechanical Energy Converters (Undergraduate)
+        - Fall 2024, ESE 352 - Electromechanical Energy Converters (Undergraduate)
         - Fall 2024, EEO 425 - Electric Machinery and Energy Conversion (Online)
         - Fall 2024, ESE 562: AI-Driven Smart Grids (Graduate)
         - Fall 2023, ESE 352 - Electromechanical Energy Converters (Undergraduate)
