@@ -15,6 +15,7 @@ sections:
     id: news
     content:
       title: News
+      count: 5
       text: |-
         - **2024/07**, Sijia received the IEEE Computer Society Student Travel Grants to support her oral presentation at QCE24.
         - **2024/06**, Our paper on Distributed quantum ML-based stability assessment is accepted by 2024 IEEE International Conference on Quantum Computing and Engineering (QCE24).
@@ -73,10 +74,11 @@ sections:
     content:
       title: Team
       text: |-
-        - Yao Xiao (Fall 2024 - )
-        - Xuguo Fu (Fall 2023 - )
-        - Sijia Yu (Spring 2023 - )
-        - Qing Shen (co-advised, Fall 2022 -)
+        - **Yao Xiao** (PhD student, Fall 2024 - )
+        - **Xuguo Fu** (PhD student, Fall 2023 - )
+        - **Sijia Yu** (PhD student, Spring 2023 - )
+        - **Trisha Sabadra** (High school student, Summer 2024)
+        - **Asha Boyapati**  (High school student, Summer 2024)
     design:
       columns: '2'
   - block: markdown
