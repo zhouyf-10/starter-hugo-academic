@@ -56,17 +56,10 @@ sections:
     content:
       title: Teaching
       text: |-
-        - Fall 2024, ESE 352 - Electromechanical Energy Converters (Undergraduate)
-        - Fall 2024, EEO 425 - Electric Machinery and Energy Conversion (Online)
-        - Fall 2024, ESE 562: AI-Driven Smart Grids (Graduate)
-        - Fall 2023, ESE 352 - Electromechanical Energy Converters (Undergraduate)
-        - Fall 2023, EEO 425 - Electric Machinery and Energy Conversion (Online)
-        - Fall 2023, ESE 586: Microgrids (Graduate)
-        - Fall 2022, ESE 352 - Electromechanical Energy Converters (Undergraduate)
-        - Fall 2022, EEO 425 - Electric Machinery and Energy Conversion (Online)
-        - Fall 2022, ESE 586: Microgrids (Graduate)
-        - Spring 2022, ESE 586: Microgrids (Graduate)
-        - Spring 2021, ESE 586: Microgrids (Graduate)
+        - **ESE 352 - Electromechanical Energy Converters** (Undergraduate): Fall 2024, Fall 2023, Fall 2022.
+        - **EEO 425 - Electric Machinery and Energy Conversion** (Online): Fall 2024, Fall 2023, Fall 2022.
+        - **ESE 562 - AI-Driven Smart Grids** (Graduate): Fall 2024.
+        - **ESE 586 - Microgrids** (Graduate): Fall 2023, Fall 2022, Spring 2022, Spring 2021.
     design:
       columns: '2'
   - block: markdown
