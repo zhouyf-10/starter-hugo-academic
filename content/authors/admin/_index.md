@@ -55,7 +55,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an Assistant Professor in the Department of Electrical and Computer Engineering at Stony Brook University. I received my Bachelor's degree with the highest distinction in 2014 and my Ph.D. degree in 2019, both from the Department of Electrical Engineering at Tsinghua University. My research focuses on collaboratively integrating machine learning, quantum computing, and formal methods to enable intelligent, adaptive, and provably resilient power system operations and supporting extreme renewable energy integration. 
+I am an Assistant Professor in the Department of Electrical and Computer Engineering at Stony Brook University. I received my Bachelor's degree in 2014 and my Ph.D. degree in 2019, both from the Department of Electrical Engineering at Tsinghua University. My research focuses on collaboratively integrating machine learning, quantum computing, and formal methods to enable intelligent, adaptive, and provably resilient power system operations and supporting extreme renewable energy integration. 
 {style="text-align: justify;"}
 
 **I am looking for self-motivated Ph.D. students with a solid background in power system static/dynamic analysis and a strong interest in machine learning or quantum computing. Please [send me an email](mailto:yifan.zhou.1@stonybrook.edu) with your CV if you are interested.**
