@@ -67,15 +67,9 @@ sections:
     content:
       title: Mentoring
       text: |-
-      PhD students:
     - Yao Xiao (Fall 2024-)
     - Xuguo Fu (Fall 2023-)
     - Sijia Yu (Spring 2023-)
-
-    High school students:
-    - Trisha Sabadra (Summer 2024)
-    - Asha Boyapati  (Summer 2024)
-    
     design:
       columns: '2'
   - block: markdown
