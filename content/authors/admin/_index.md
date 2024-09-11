@@ -55,8 +55,8 @@ email: ''
 highlight_name: true
 ---
 
-Yifan Zhou is an assistant professor at Department of Electrical and Computer Engineering, Stony Brook University. She has been a postdoctoral researcher at Stony Brook University, working with Professor [Peng Zhang](http://www.ece.stonybrook.edu/~pzhang/index.html). She received her Ph.D. from the Department of Electrical Engineering at Tsinghua University in July 2019, under the supervision of Professor [Yong Min](https://www.eea.tsinghua.edu.cn/en/faculties/ymin.htm). Before that, she received her B. Sc. in Electrical Engineering in 2014 from the Department of Electrical Engineering at Tsinghua University.
+I am an Assistant Professor in the Department of Electrical and Computer Engineering at Stony Brook University. I received my Bachelor's degree with the highest distinction in 2014 and my Ph.D. degree in 2019, both from the Department of Electrical Engineering at Tsinghua University. My research focuses on collaboratively integrating machine learning, quantum computing, and formal methods to enable intelligent, adaptive, and provably resilient power system operations and supporting extreme renewable energy integration. 
 {style="text-align: justify;"}
 
-**I am looking for self-motivated Ph.D. students with a solid background in power system static/dynamic analysis and with strong interets in machine learning or quantum computing. Please [send me an email](mailto:yifan.zhou.1@stonybrook.edu) with your CV if you are interested.**
+**I am looking for self-motivated Ph.D. students with a solid background in power system static/dynamic analysis and a strong interest in machine learning or quantum computing. Please [send me an email](mailto:yifan.zhou.1@stonybrook.edu) with your CV if you are interested.**
 {style="text-align: justify;"}
