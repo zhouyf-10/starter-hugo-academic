@@ -52,6 +52,33 @@ sections:
       # view: community/citation_custom
       view: community/publication_list_custom
   - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: |-
+        - ESE 352 - Electromechanical Energy Converters (Undergraduate): Fall 2024, Fall 2023, Fall 2022.
+        - EEO 425 - Electric Machinery and Energy Conversion (Online): Fall 2024, Fall 2023, Fall 2022.
+        - ESE 562: AI-Driven Smart Grids (Graduate): Fall 2024.
+        - ESE 586: Microgrids (Graduate): Fall 2024, Fall 2023, Fall 2022, Spring 2022, Spring 2021.
+    design:
+      columns: '2'
+  - block: markdown
+    id: students
+    content:
+      title: Mentoring
+      text: |-
+      PhD students:
+    - Yao Xiao (Fall 2024-)
+    - Xuguo Fu (Fall 2023-)
+    - Sijia Yu (Spring 2023-)
+
+    High school students:
+    - Trisha Sabadra (Summer 2024)
+    - Asha Boyapati  (Summer 2024)
+    
+    design:
+      columns: '2'
+  - block: markdown
     id: awards
     content:
       title: Awards
