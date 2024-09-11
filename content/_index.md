@@ -63,16 +63,6 @@ sections:
     design:
       columns: '2'
   - block: markdown
-    id: students
-    content:
-      title: Mentoring
-      text: |-
-    - Yao Xiao (Fall 2024-)
-    - Xuguo Fu (Fall 2023-)
-    - Sijia Yu (Spring 2023-)
-    design:
-      columns: '2'
-  - block: markdown
     id: awards
     content:
       title: Awards
