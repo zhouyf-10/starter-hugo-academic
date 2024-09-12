@@ -22,7 +22,7 @@ publication_short: "2023 CIGRE Next Generation Network (NGN)"
 
 abstract: "Top 5 in the NGN Paper Competition."
 
-# external_link: "https://arxiv.org/pdf/2309.16950"
+external_link: "https://arxiv.org/pdf/2309.16950"
 
 
 draft: false
