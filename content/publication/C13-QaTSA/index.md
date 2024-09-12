@@ -20,8 +20,8 @@ publication_short: "IEEE Power & Energy Society General Meeting"
 abstract: ""
 
 
-# external_link: "https://ieeexplore.ieee.org/abstract/document/9916926"
-url_pdf: 'https://drive.google.com/file/d/1Ra7rCYsL5ep-v9kdDYp8q8LKPzd_YN7W/view?usp=drive_link'
+external_link: "https://drive.google.com/file/d/1Ra7rCYsL5ep-v9kdDYp8q8LKPzd_YN7W/view?usp=drive_link"
+# url_pdf: 'https://drive.google.com/file/d/1Ra7rCYsL5ep-v9kdDYp8q8LKPzd_YN7W/view?usp=drive_link'
 
 draft: false
 featured: false
