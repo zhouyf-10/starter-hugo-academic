@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: "2023 CIGRE Next Generation Network (NGN)"
 publication_short: "2023 CIGRE Next Generation Network (NGN)"
 
-abstract: ""
+abstract: "Top 5 in the NGN Paper Competition."
 
 # external_link: "https://arxiv.org/pdf/2309.16950"
 
