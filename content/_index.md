@@ -68,11 +68,12 @@ sections:
   - block: markdown
     id: team
     content:
-      title: Team
+      title: Mentoring
       text: |-
         - **Yao Xiao** (PhD student, Fall 2024 - )
         - **Xuguo Fu** (PhD student, Fall 2023 - )
         - **Sijia Yu** (PhD student, Spring 2023 - )
+        - **Qing Shen** (Co-advised PhD student, Fall 2022 - )
         - **Trisha Sabadra** (High school student, Summer 2024)
         - **Asha Boyapati**  (High school student, Summer 2024)
     design:
