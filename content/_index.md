@@ -27,7 +27,6 @@ sections:
         - **2023/03**, One paper on [Distributed local routing for quantum network-enabled microgrids](https://ieeexplore.ieee.org/abstract/document/10364635) is accepted by the 2023 IEEE PESGM. 
         - **2023/03**, Our paper on [Noise-resilient quantum EMTP](https://ieeexplore.ieee.org/abstract/document/9769895) is published by IEEE Transactions on Power Systems.
         - **2023/01**, Our paper on [Quantum ML-based stability assessment](https://ieeexplore.ieee.org/abstract/document/9737359) is accepted by IEEE Transactions on Power Systems.
-    <!--more-->
     design:
       columns: '2'
   - block: portfolio
