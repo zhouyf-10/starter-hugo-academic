@@ -19,9 +19,9 @@ publication_short: "IEEE Power & Energy Society General Meeting"
 
 abstract: ""
 
-link: /uploads/resume_yifanzhou.pdf
+
 # external_link: "https://ieeexplore.ieee.org/abstract/document/9916926"
-# url_pdf: 'https://www.dropbox.com/s/8vzkhh7fk3d0jlx/CHI17_WiDance_paper.pdf?dl=0'
+url_pdf: 'https://drive.google.com/file/d/1Ra7rCYsL5ep-v9kdDYp8q8LKPzd_YN7W/view?usp=drive_link'
 
 draft: false
 featured: false
