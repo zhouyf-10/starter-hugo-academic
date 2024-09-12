@@ -3,7 +3,7 @@ title: "Quantum Adversarial Machine Learning for Robust Power System Stability A
 authors:
   - Sijia Yu
   - admin
-date: "2024-7-16T00:00:00"
+date: "2024-07-16T00:00:00Z"
 # doi: "10.1109/PESGM48719.2022.9916926"
 
 
