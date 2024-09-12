@@ -1,0 +1,32 @@
+---
+title: "Neuro-Dynamic State Estimation for Networked Microgrids"
+authors:
+  - Fei Feng
+  - admin
+  - Peng Zhang
+date: "2024-03-16T00:00:00Z"
+# doi: "10.1109/TIA.2024.3371956"
+
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: "IEEE Transactions on Industry Applications"
+publication_short: "IEEE Transactions on Industry Applications"
+
+abstract: ""
+
+
+external_link: "https://ieeexplore.ieee.org/abstract/document/10457950"
+# url_pdf: 'https://drive.google.com/file/d/1Ra7rCYsL5ep-v9kdDYp8q8LKPzd_YN7W/view?usp=drive_link'
+
+draft: false
+featured: false
+
+---
+
+
